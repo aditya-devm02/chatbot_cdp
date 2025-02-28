@@ -6,7 +6,7 @@
 
 ## 📖 Scene 1: Meet the Hero!
 
-![Hero Image](path_to_image)
+![Hero Image](https://github.com/aditya-devm02/chatbot_cdp/blob/main/assets/Screenshot%202025-02-28%20at%2011.37.08%E2%80%AFPM.png)
 
 **(Panel 1: A futuristic office, buzzing with data streams and dashboards.)**
 
@@ -18,7 +18,7 @@
 
 ## 🎭 Scene 2: The Powers of the Chatbot!
 
-![Chatbot in Action](path_to_image)
+![Chatbot in Action](https://github.com/aditya-devm02/chatbot_cdp/blob/main/assets/Screenshot%202025-02-28%20at%2011.37.43%E2%80%AFPM.png)
 
 *(Panel 2: The chatbot opens a glowing book of knowledge.)*
 
@@ -36,7 +36,7 @@
 
 ## 🔥 Scene 3: The Tech Behind the Magic
 
-![Tech Stack](path_to_image)
+
 
 *(Panel 3: A blueprint of the chatbot’s inner workings.)*
 
@@ -58,7 +58,7 @@
 
 ## 🚀 Scene 4: Unlocking Hidden Features
 
-![Hidden Features](path_to_image)
+
 
 *(Panel 4: The chatbot reveals a secret control panel.)*
 
@@ -75,7 +75,7 @@
 
 ## 🔮 Scene 5: The Future is Bright!
 
-![Future Upgrades](path_to_image)
+
 
 *(Panel 5: The chatbot looking into a glowing crystal ball.)*
 
@@ -94,7 +94,7 @@
 
 ## 🎯 Scene 6: Getting Started!
 
-![Getting Started Guide](path_to_image)
+
 
 *(Panel 6: A checklist appears, glowing with excitement.)*
 
